@@ -1,2 +1,3 @@
-# My First Project
-this is my first project in PORA ACADEMY
+# My Project
+PORA ACADEMY REPO
+Coursera gave me 90% aid, so I opted for Theodin project 
