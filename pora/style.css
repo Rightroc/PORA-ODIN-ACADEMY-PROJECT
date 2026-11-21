@@ -97,5 +97,11 @@ div.first{
 }
 
 .media{
-    background-color: #080808;
+    background-color:#080808
+}
+#med{
+    background-color: #242424; 
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
